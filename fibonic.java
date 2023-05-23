@@ -1,3 +1,4 @@
+;new changing by sarfraz
 import java.util.*;
 claas a{
 public static void main (String[] arg){
