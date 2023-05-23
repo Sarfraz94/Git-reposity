@@ -2,7 +2,7 @@ Import java.util.*;
 Class CPN making {
 	Public static void main(String[] args) {
 	Scanner ob= new Scanner(System.in);
-			System.out.println(“Entet the  HSC ”);
+			System.out.println(“Entet the  SSC ”);
 			Double a=ob.nextDouble();
 			System.out.println(“Enter the Intermediate Marks”);
 			Double b=ob.nextDouble();
